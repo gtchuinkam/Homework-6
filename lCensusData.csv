@@ -1,0 +1,641 @@
+0,1
+"('*', ' Black', ' Craft', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+117   *      Craft   Black   Male           4*            11
+176   *      Craft   Black   Male           4*             9
+182   *      Craft   Black   Male           4*            10
+192   *      Craft   Black   Male           4*            13
+330   *      Craft   Black   Male           4*            10
+374   *      Craft   Black   Male           4*             9"
+"('*', ' Black', ' Exec', ' Male', '*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+10    *       Exec   Black   Male            *            10
+122   *       Exec   Black   Male            *            13
+180   *       Exec   Black   Male            *            10
+215   *       Exec   Black   Male            *            13
+453   *       Exec   Black   Male            *            12
+505   *       Exec   Black   Male            *            13"
+"('*', ' Black', ' Other', ' Male', '*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+34    *      Other   Black   Male            *            10
+99    *      Other   Black   Male            *             9
+124   *      Other   Black   Male            *            10
+159   *      Other   Black   Male            *            13
+206   *      Other   Black   Male            *            13
+222   *      Other   Black   Male            *             9
+339   *      Other   Black   Male            *             9
+532   *      Other   Black   Male            *             9"
+"('*', ' White', ' ?', ' Female', '*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+106   *          ?   White   Female            *             6
+149   *          ?   White   Female            *            10
+160   *          ?   White   Female            *             2
+187   *          ?   White   Female            *            13
+347   *          ?   White   Female            *            11
+397   *          ?   White   Female            *             9
+408   *          ?   White   Female            *            10
+449   *          ?   White   Female            *             7
+515   *          ?   White   Female            *            11
+518   *          ?   White   Female            *            10"
+"('*', ' White', ' ?', ' Male', '2*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+243   *          ?   White   Male           2*            10
+266   *          ?   White   Male           2*            10
+430   *          ?   White   Male           2*             9
+499   *          ?   White   Male           2*             9
+517   *          ?   White   Male           2*            10"
+"('*', ' White', ' ?', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+61    *          ?   White   Male           4*             4
+69    *          ?   White   Male           4*            10
+128   *          ?   White   Male           4*             9
+154   *          ?   White   Male           4*             9
+201   *          ?   White   Male           4*             9
+221   *          ?   White   Male           4*             2
+354   *          ?   White   Male           4*            13
+431   *          ?   White   Male           4*             7
+459   *          ?   White   Male           4*            10
+471   *          ?   White   Male           4*            10"
+"('*', ' White', ' Adm', ' Female', '*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+370   *        Adm   White   Female            *            10
+375   *        Adm   White   Female            *            10
+387   *        Adm   White   Female            *            10
+388   *        Adm   White   Female            *            10
+465   *        Adm   White   Female            *             9
+527   *        Adm   White   Female            *            10"
+"('*', ' White', ' Adm', ' Female', '2*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+37    *        Adm   White   Female           2*             9
+126   *        Adm   White   Female           2*            10
+228   *        Adm   White   Female           2*            11
+441   *        Adm   White   Female           2*             9
+557   *        Adm   White   Female           2*             9"
+"('*', ' White', ' Adm', ' Female', '3*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+12    *        Adm   White   Female           3*            13
+137   *        Adm   White   Female           3*            11
+150   *        Adm   White   Female           3*            10
+204   *        Adm   White   Female           3*             9
+236   *        Adm   White   Female           3*            10
+358   *        Adm   White   Female           3*             9
+495   *        Adm   White   Female           3*             9"
+"('*', ' White', ' Adm', ' Female', '4*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+43    *        Adm   White   Female           4*             9
+66    *        Adm   White   Female           4*            10
+67    *        Adm   White   Female           4*             9
+108   *        Adm   White   Female           4*             9
+151   *        Adm   White   Female           4*             9
+181   *        Adm   White   Female           4*            10
+229   *        Adm   White   Female           4*             9
+305   *        Adm   White   Female           4*             9
+439   *        Adm   White   Female           4*            10
+552   *        Adm   White   Female           4*             7"
+"('*', ' White', ' Adm', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+232   *        Adm   White   Male           4*            10
+246   *        Adm   White   Male           4*             9
+253   *        Adm   White   Male           4*            10
+331   *        Adm   White   Male           4*            13
+333   *        Adm   White   Male           4*             6
+406   *        Adm   White   Male           4*             9
+438   *        Adm   White   Male           4*            10
+502   *        Adm   White   Male           4*            10"
+"('*', ' White', ' Craft', ' Female', '4*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+84    *      Craft   White   Female           4*             9
+91    *      Craft   White   Female           4*            10
+269   *      Craft   White   Female           4*             9
+376   *      Craft   White   Female           4*             9
+381   *      Craft   White   Female           4*             3
+475   *      Craft   White   Female           4*            13
+483   *      Craft   White   Female           4*             9"
+"('*', ' White', ' Craft', ' Male', '*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+132   *      Craft   White   Male            *             9
+136   *      Craft   White   Male            *             9
+153   *      Craft   White   Male            *             9
+158   *      Craft   White   Male            *             9
+207   *      Craft   White   Male            *             9
+324   *      Craft   White   Male            *            14
+407   *      Craft   White   Male            *             9
+481   *      Craft   White   Male            *            10
+494   *      Craft   White   Male            *            13"
+"('*', ' White', ' Craft', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+26    *      Craft   White   Male           4*             9
+140   *      Craft   White   Male           4*             9
+148   *      Craft   White   Male           4*             7
+259   *      Craft   White   Male           4*             4
+289   *      Craft   White   Male           4*             4
+452   *      Craft   White   Male           4*             9
+463   *      Craft   White   Male           4*             2"
+"('*', ' White', ' Craft', ' Male', '5*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+173   *      Craft   White   Male           5*            13
+321   *      Craft   White   Male           5*            10
+391   *      Craft   White   Male           5*            13
+415   *      Craft   White   Male           5*             8
+451   *      Craft   White   Male           5*            10
+528   *      Craft   White   Male           5*             9"
+"('*', ' White', ' Exec', ' Female', '*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+197   *       Exec   White   Female            *            14
+288   *       Exec   White   Female            *            13
+323   *       Exec   White   Female            *             7
+368   *       Exec   White   Female            *            13
+492   *       Exec   White   Female            *            12
+533   *       Exec   White   Female            *            12"
+"('*', ' White', ' Exec', ' Male', '*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+1     *       Exec   White   Male            *            13
+28    *       Exec   White   Male            *             9
+238   *       Exec   White   Male            *            14
+378   *       Exec   White   Male            *            14
+520   *       Exec   White   Male            *            13"
+"('*', ' White', ' Exec', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+7     *       Exec   White   Male           4*             9
+100   *       Exec   White   Male           4*            14
+267   *       Exec   White   Male           4*             9
+270   *       Exec   White   Male           4*             9
+428   *       Exec   White   Male           4*             9"
+"('*', ' White', ' Exec', ' Male', '5*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+53    *       Exec   White   Male           5*            13
+68    *       Exec   White   Male           5*            10
+202   *       Exec   White   Male           5*            13
+237   *       Exec   White   Male           5*            13
+398   *       Exec   White   Male           5*            13
+399   *       Exec   White   Male           5*            13
+409   *       Exec   White   Male           5*            10
+521   *       Exec   White   Male           5*             9
+550   *       Exec   White   Male           5*            10"
+"('*', ' White', ' Farming', ' Male', '*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+16    *    Farming   White   Male            *             9
+227   *    Farming   White   Male            *             9
+272   *    Farming   White   Male            *            14
+309   *    Farming   White   Male            *            10
+343   *    Farming   White   Male            *             9"
+"('*', ' White', ' Farming', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+79    *    Farming   White   Male           4*             4
+325   *    Farming   White   Male           4*             9
+423   *    Farming   White   Male           4*             9
+460   *    Farming   White   Male           4*            12
+500   *    Farming   White   Male           4*             9"
+"('*', ' White', ' Handlers', ' Male', '*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+44    *   Handlers   White   Male            *             9
+95    *   Handlers   White   Male            *            10
+115   *   Handlers   White   Male            *             5
+168   *   Handlers   White   Male            *             7
+421   *   Handlers   White   Male            *             7
+427   *   Handlers   White   Male            *             9
+477   *   Handlers   White   Male            *            10
+548   *   Handlers   White   Male            *             9"
+"('*', ' White', ' Handlers', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+2     *   Handlers   White   Male           4*             9
+107   *   Handlers   White   Male           4*             7
+109   *   Handlers   White   Male           4*             9
+156   *   Handlers   White   Male           4*            13
+220   *   Handlers   White   Male           4*            10
+284   *   Handlers   White   Male           4*             9
+328   *   Handlers   White   Male           4*             9
+400   *   Handlers   White   Male           4*            10
+510   *   Handlers   White   Male           4*            11"
+"('*', ' White', ' Machine', ' Female', '*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+114   *    Machine   White   Female            *             9
+224   *    Machine   White   Female            *             1
+279   *    Machine   White   Female            *            10
+317   *    Machine   White   Female            *             3
+555   *    Machine   White   Female            *             7"
+"('*', ' White', ' Machine', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+35    *    Machine   White   Male           4*             7
+56    *    Machine   White   Male           4*             3
+183   *    Machine   White   Male           4*             4
+214   *    Machine   White   Male           4*             4
+416   *    Machine   White   Male           4*             2"
+"('*', ' White', ' Other', ' Female', '2*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+78    *      Other   White   Female           2*             7
+147   *      Other   White   Female           2*             9
+241   *      Other   White   Female           2*             9
+319   *      Other   White   Female           2*             9
+360   *      Other   White   Female           2*             6
+385   *      Other   White   Female           2*             9
+433   *      Other   White   Female           2*            12
+474   *      Other   White   Female           2*            11"
+"('*', ' White', ' Other', ' Female', '3*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+51    *      Other   White   Female           3*             9
+247   *      Other   White   Female           3*             9
+257   *      Other   White   Female           3*             9
+394   *      Other   White   Female           3*             9
+479   *      Other   White   Female           3*             9
+490   *      Other   White   Female           3*             9"
+"('*', ' White', ' Other', ' Female', '4*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+82    *      Other   White   Female           4*             9
+165   *      Other   White   Female           4*            10
+389   *      Other   White   Female           4*             9
+390   *      Other   White   Female           4*             9
+503   *      Other   White   Female           4*            10
+509   *      Other   White   Female           4*             9
+551   *      Other   White   Female           4*             9"
+"('*', ' White', ' Other', ' Male', '*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+112   *      Other   White   Male            *             9
+142   *      Other   White   Male            *            10
+146   *      Other   White   Male            *            10
+178   *      Other   White   Male            *             9
+262   *      Other   White   Male            *             7
+271   *      Other   White   Male            *             5
+348   *      Other   White   Male            *            12
+371   *      Other   White   Male            *             7
+476   *      Other   White   Male            *             5"
+"('*', ' White', ' Other', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+57    *      Other   White   Male           4*            11
+81    *      Other   White   Male           4*            13
+235   *      Other   White   Male           4*             9
+287   *      Other   White   Male           4*            10
+332   *      Other   White   Male           4*            11
+335   *      Other   White   Male           4*             3
+559   *      Other   White   Male           4*             7"
+"('*', ' White', ' Prof', ' Female', '*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+52    *       Prof   White   Female            *            15
+169   *       Prof   White   Female            *            11
+280   *       Prof   White   Female            *            13
+307   *       Prof   White   Female            *            12
+493   *       Prof   White   Female            *             9
+498   *       Prof   White   Female            *            10"
+"('*', ' White', ' Prof', ' Female', '4*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+200   *       Prof   White   Female           4*            14
+260   *       Prof   White   Female           4*            13
+268   *       Prof   White   Female           4*            13
+274   *       Prof   White   Female           4*             9
+283   *       Prof   White   Female           4*            13
+291   *       Prof   White   Female           4*             9"
+"('*', ' White', ' Prof', ' Female', '5*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+8     *       Prof   White   Female           5*            14
+89    *       Prof   White   Female           5*            16
+102   *       Prof   White   Female           5*            14
+188   *       Prof   White   Female           5*            14
+327   *       Prof   White   Female           5*            10"
+"('*', ' White', ' Prof', ' Male', '*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+70    *       Prof   White   Male            *            10
+74    *       Prof   White   Male            *            10
+123   *       Prof   White   Male            *            13
+189   *       Prof   White   Male            *            16
+218   *       Prof   White   Male            *            13
+234   *       Prof   White   Male            *            15
+273   *       Prof   White   Male            *            14
+349   *       Prof   White   Male            *            13
+482   *       Prof   White   Male            *            13"
+"('*', ' White', ' Prof', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+41    *       Prof   White   Male           4*            13
+49    *       Prof   White   Male           4*            11
+90    *       Prof   White   Male           4*            11
+174   *       Prof   White   Male           4*            13
+361   *       Prof   White   Male           4*            14
+440   *       Prof   White   Male           4*            13
+470   *       Prof   White   Male           4*            10
+534   *       Prof   White   Male           4*            15
+541   *       Prof   White   Male           4*            16"
+"('*', ' White', ' Prof', ' Male', '6*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+20    *       Prof   White   Male           6*            16
+96    *       Prof   White   Male           6*            16
+179   *       Prof   White   Male           6*            13
+286   *       Prof   White   Male           6*            15
+337   *       Prof   White   Male           6*            14"
+"('*', ' White', ' Protective', ' Male', '4*')","    Age   Occupation    Race    Sex HoursPerWeek  EducationNum
+86    *   Protective   White   Male           4*             9
+94    *   Protective   White   Male           4*            13
+167   *   Protective   White   Male           4*            14
+171   *   Protective   White   Male           4*             9
+342   *   Protective   White   Male           4*             9
+402   *   Protective   White   Male           4*            13
+547   *   Protective   White   Male           4*            10"
+"('*', ' White', ' Sales', ' Female', '*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+85    *      Sales   White   Female            *             9
+113   *      Sales   White   Female            *            10
+130   *      Sales   White   Female            *            12
+175   *      Sales   White   Female            *             9
+208   *      Sales   White   Female            *             9
+209   *      Sales   White   Female            *             7
+296   *      Sales   White   Female            *            13
+367   *      Sales   White   Female            *            12"
+"('*', ' White', ' Sales', ' Female', '4*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+141   *      Sales   White   Female           4*            10
+205   *      Sales   White   Female           4*             7
+216   *      Sales   White   Female           4*            12
+225   *      Sales   White   Female           4*             9
+369   *      Sales   White   Female           4*             9
+383   *      Sales   White   Female           4*            10
+454   *      Sales   White   Female           4*             9
+504   *      Sales   White   Female           4*            13
+525   *      Sales   White   Female           4*            10"
+"('*', ' White', ' Sales', ' Male', '*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+38    *      Sales   White   Male            *            10
+72    *      Sales   White   Male            *            13
+80    *      Sales   White   Male            *             9
+138   *      Sales   White   Male            *            10
+261   *      Sales   White   Male            *             9
+299   *      Sales   White   Male            *             9
+314   *      Sales   White   Male            *            10
+420   *      Sales   White   Male            *            10
+445   *      Sales   White   Male            *            10
+489   *      Sales   White   Male            *            13"
+"('*', ' White', ' Sales', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+60    *      Sales   White   Male           4*            13
+88    *      Sales   White   Male           4*             5
+97    *      Sales   White   Male           4*            10
+164   *      Sales   White   Male           4*            14
+316   *      Sales   White   Male           4*            10
+345   *      Sales   White   Male           4*            13"
+"('*', ' White', ' Sales', ' Male', '5*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+18    *      Sales   White   Male           5*             7
+116   *      Sales   White   Male           5*            10
+118   *      Sales   White   Male           5*            10
+133   *      Sales   White   Male           5*            13
+217   *      Sales   White   Male           5*            13
+364   *      Sales   White   Male           5*             9
+379   *      Sales   White   Male           5*             9
+544   *      Sales   White   Male           5*            10"
+"('*', ' White', ' Tech', ' Female', '*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+24    *       Tech   White   Female            *             9
+103   *       Tech   White   Female            *            10
+278   *       Tech   White   Female            *            10
+318   *       Tech   White   Female            *            10
+403   *       Tech   White   Female            *            11
+464   *       Tech   White   Female            *            13
+469   *       Tech   White   Female            *            13
+558   *       Tech   White   Female            *             9"
+"('*', ' White', ' Tech', ' Male', '*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+42    *       Tech   White   Male            *            13
+64    *       Tech   White   Male            *            10
+194   *       Tech   White   Male            *            13
+248   *       Tech   White   Male            *            12
+535   *       Tech   White   Male            *             8"
+"('*', ' White', ' Tech', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+25    *       Tech   White   Male           4*            13
+55    *       Tech   White   Male           4*            10
+144   *       Tech   White   Male           4*            10
+193   *       Tech   White   Male           4*            10
+306   *       Tech   White   Male           4*            12
+357   *       Tech   White   Male           4*            11
+395   *       Tech   White   Male           4*            10
+523   *       Tech   White   Male           4*            10"
+"('*', ' White', ' Transport', ' Male', '*')","    Age  Occupation    Race    Sex HoursPerWeek  EducationNum
+254   *   Transport   White   Male            *            10
+295   *   Transport   White   Male            *             9
+329   *   Transport   White   Male            *             9
+353   *   Transport   White   Male            *             7
+425   *   Transport   White   Male            *             9
+458   *   Transport   White   Male            *             9
+473   *   Transport   White   Male            *             9"
+"('*', ' White', ' Transport', ' Male', '4*')","    Age  Occupation    Race    Sex HoursPerWeek  EducationNum
+23    *   Transport   White   Male           4*             7
+62    *   Transport   White   Male           4*             9
+195   *   Transport   White   Male           4*             3
+239   *   Transport   White   Male           4*             9
+302   *   Transport   White   Male           4*             9
+322   *   Transport   White   Male           4*             9
+334   *   Transport   White   Male           4*             9
+362   *   Transport   White   Male           4*            13
+380   *   Transport   White   Male           4*             9
+466   *   Transport   White   Male           4*             9
+467   *   Transport   White   Male           4*            10
+487   *   Transport   White   Male           4*             9
+501   *   Transport   White   Male           4*             9
+540   *   Transport   White   Male           4*            10
+543   *   Transport   White   Male           4*             9"
+"('*', '*', ' ?', ' Female', '*')","    Age Occupation Race      Sex HoursPerWeek  EducationNum
+226   *          ?    *   Female            *             6
+297   *          ?    *   Female            *            14
+312   *          ?    *   Female            *            10
+326   *          ?    *   Female            *            11
+511   *          ?    *   Female            *             3
+539   *          ?    *   Female            *             9"
+"('*', '*', ' ?', ' Male', '*')","    Age Occupation Race    Sex HoursPerWeek  EducationNum
+27    *          ?    *   Male            *            10
+77    *          ?    *   Male            *             6
+346   *          ?    *   Male            *             7
+484   *          ?    *   Male            *             8
+486   *          ?    *   Male            *             2"
+"('*', '*', ' Adm', ' Female', '*')","    Age Occupation Race      Sex HoursPerWeek  EducationNum
+251   *        Adm    *   Female            *            13
+304   *        Adm    *   Female            *            10
+485   *        Adm    *   Female            *            10
+508   *        Adm    *   Female            *             9
+516   *        Adm    *   Female            *            10"
+"('*', '*', ' Craft', ' Male', '*')","    Age Occupation Race    Sex HoursPerWeek  EducationNum
+14    *      Craft    *   Male            *            11
+139   *      Craft    *   Male            *            10
+213   *      Craft    *   Male            *             9
+434   *      Craft    *   Male            *            10
+447   *      Craft    *   Male            *             9"
+"('*', '*', ' Exec', ' Female', '*')","    Age Occupation Race      Sex HoursPerWeek  EducationNum
+50    *       Exec    *   Female            *            10
+152   *       Exec    *   Female            *            13
+162   *       Exec    *   Female            *            14
+163   *       Exec    *   Female            *             9
+446   *       Exec    *   Female            *             9"
+"('*', '*', ' Handlers', ' Male', '*')","    Age Occupation Race    Sex HoursPerWeek  EducationNum
+3     *   Handlers    *   Male            *             7
+177   *   Handlers    *   Male            *             9
+275   *   Handlers    *   Male            *             9
+404   *   Handlers    *   Male            *             4
+522   *   Handlers    *   Male            *            10"
+"('*', '*', ' Machine', ' Female', '*')","    Age Occupation Race      Sex HoursPerWeek  EducationNum
+92    *    Machine    *   Female            *            10
+190   *    Machine    *   Female            *            10
+450   *    Machine    *   Female            *             9
+530   *    Machine    *   Female            *             7
+553   *    Machine    *   Female            *             9"
+"('*', '*', ' Machine', ' Male', '*')","    Age Occupation Race    Sex HoursPerWeek  EducationNum
+46    *    Machine    *   Male            *             9
+372   *    Machine    *   Male            *            11
+373   *    Machine    *   Male            *             9
+418   *    Machine    *   Male            *             7
+455   *    Machine    *   Male            *            11
+524   *    Machine    *   Male            *            10"
+"('*', '*', ' Other', ' Female', '*')","    Age Occupation Race      Sex HoursPerWeek  EducationNum
+6     *      Other    *   Female            *             5
+21    *      Other    *   Female            *             9
+252   *      Other    *   Female            *             6
+301   *      Other    *   Female            *            10
+410   *      Other    *   Female            *            10
+417   *      Other    *   Female            *             7
+546   *      Other    *   Female            *             6"
+"('*', '*', ' Protective', '*', '*')","    Age   Occupation Race Sex HoursPerWeek  EducationNum
+30    *   Protective    *   *            *            12
+242   *   Protective    *   *            *            12
+292   *   Protective    *   *            *            13
+344   *   Protective    *   *            *            10
+437   *   Protective    *   *            *            10
+506   *   Protective    *   *            *            10"
+"('*', '*', ' Sales', ' Female', '*')","    Age Occupation Race      Sex HoursPerWeek  EducationNum
+71    *      Sales    *   Female            *            13
+93    *      Sales    *   Female            *             9
+212   *      Sales    *   Female            *            10
+231   *      Sales    *   Female            *             9
+282   *      Sales    *   Female            *            12"
+"('*', '*', ' Transport', ' Male', '*')","    Age  Occupation Race    Sex HoursPerWeek  EducationNum
+15    *   Transport    *   Male            *             4
+210   *   Transport    *   Male            *             9
+230   *   Transport    *   Male            *             7
+457   *   Transport    *   Male            *            10
+461   *   Transport    *   Male            *             9"
+"('*', '*', '*', '*', '*')","    Age Occupation Race Sex HoursPerWeek  EducationNum
+4     *          *    *   *            *            13
+11    *          *    *   *            *            13
+13    *          *    *   *            *            12
+22    *          *    *   *            *             5
+31    *          *    *   *            *            10
+45    *          *    *   *            *            13
+134   *          *    *   *            *            12
+145   *          *    *   *            *             9
+157   *          *    *   *            *            10
+185   *          *    *   *            *             9
+223   *          *    *   *            *             9
+233   *          *    *   *            *            10
+245   *          *    *   *            *             9
+255   *          *    *   *            *             9
+265   *          *    *   *            *            10
+294   *          *    *   *            *            13
+311   *          *    *   *            *            14
+313   *          *    *   *            *            13
+338   *          *    *   *            *             9
+356   *          *    *   *            *             7
+384   *          *    *   *            *            10
+396   *          *    *   *            *            10
+411   *          *    *   *            *             9
+419   *          *    *   *            *             9
+424   *          *    *   *            *             6
+436   *          *    *   *            *             9
+442   *          *    *   *            *             9
+536   *          *    *   *            *             2
+538   *          *    *   *            *            13
+542   *          *    *   *            *            10
+545   *          *    *   *            *             9
+554   *          *    *   *            *            11"
+"('2*', ' White', ' Craft', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+104  2*      Craft   White   Male           4*             9
+119  2*      Craft   White   Male           4*             9
+219  2*      Craft   White   Male           4*             6
+264  2*      Craft   White   Male           4*             7
+298  2*      Craft   White   Male           4*             9
+359  2*      Craft   White   Male           4*             5
+365  2*      Craft   White   Male           4*             9
+382  2*      Craft   White   Male           4*            10
+444  2*      Craft   White   Male           4*             5
+514  2*      Craft   White   Male           4*             9
+537  2*      Craft   White   Male           4*            11
+549  2*      Craft   White   Male           4*            10"
+"('2*', ' White', ' Machine', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+36   2*    Machine   White   Male           4*            10
+73   2*    Machine   White   Male           4*            10
+191  2*    Machine   White   Male           4*            10
+315  2*    Machine   White   Male           4*            10
+386  2*    Machine   White   Male           4*             9
+448  2*    Machine   White   Male           4*             9
+496  2*    Machine   White   Male           4*            10
+531  2*    Machine   White   Male           4*             9"
+"('2*', ' White', ' Other', ' Female', '4*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+120  2*      Other   White   Female           4*            10
+131  2*      Other   White   Female           4*             9
+161  2*      Other   White   Female           4*             9
+256  2*      Other   White   Female           4*             9
+401  2*      Other   White   Female           4*            10"
+"('2*', ' White', ' Other', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+75   2*      Other   White   Male           4*             9
+170  2*      Other   White   Male           4*             9
+351  2*      Other   White   Male           4*             9
+478  2*      Other   White   Male           4*             6
+497  2*      Other   White   Male           4*             3"
+"('2*', ' White', ' Sales', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+110  2*      Sales   White   Male           4*            13
+199  2*      Sales   White   Male           4*             9
+293  2*      Sales   White   Male           4*            10
+310  2*      Sales   White   Male           4*            13
+340  2*      Sales   White   Male           4*            12
+377  2*      Sales   White   Male           4*            10"
+"('3*', ' White', ' Adm', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+0    3*        Adm   White   Male           4*            13
+33   3*        Adm   White   Male           4*            10
+127  3*        Adm   White   Male           4*            12
+184  3*        Adm   White   Male           4*            10
+308  3*        Adm   White   Male           4*            12
+355  3*        Adm   White   Male           4*             9"
+"('3*', ' White', ' Craft', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+65   3*      Craft   White   Male           4*             9
+105  3*      Craft   White   Male           4*             9
+129  3*      Craft   White   Male           4*            10
+196  3*      Craft   White   Male           4*            10
+211  3*      Craft   White   Male           4*             9
+244  3*      Craft   White   Male           4*            10
+336  3*      Craft   White   Male           4*             9
+341  3*      Craft   White   Male           4*            11
+472  3*      Craft   White   Male           4*             9
+480  3*      Craft   White   Male           4*            12
+512  3*      Craft   White   Male           4*            11"
+"('3*', ' White', ' Exec', ' Female', '4*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+5    3*       Exec   White   Female           4*            14
+277  3*       Exec   White   Female           4*            10
+412  3*       Exec   White   Female           4*            10
+422  3*       Exec   White   Female           4*            13
+456  3*       Exec   White   Female           4*             9"
+"('3*', ' White', ' Exec', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+166  3*       Exec   White   Male           4*            12
+320  3*       Exec   White   Male           4*             9
+350  3*       Exec   White   Male           4*            13
+352  3*       Exec   White   Male           4*            13
+393  3*       Exec   White   Male           4*            13"
+"('3*', ' White', ' Machine', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+17   3*    Machine   White   Male           4*             9
+40   3*    Machine   White   Male           4*             5
+59   3*    Machine   White   Male           4*             9
+414  3*    Machine   White   Male           4*            10
+556  3*    Machine   White   Male           4*             9"
+"('3*', ' White', ' Prof', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+111  3*       Prof   White   Male           4*            15
+135  3*       Prof   White   Male           4*            14
+198  3*       Prof   White   Male           4*            14
+290  3*       Prof   White   Male           4*            13
+426  3*       Prof   White   Male           4*            14"
+"('3*', ' White', ' Prof', ' Male', '5*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+87   3*       Prof   White   Male           5*            14
+435  3*       Prof   White   Male           5*            14
+462  3*       Prof   White   Male           5*            13
+513  3*       Prof   White   Male           5*            10
+519  3*       Prof   White   Male           5*            13"
+"('4*', ' White', ' Adm', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+58   4*        Adm   White   Male           4*             9
+76   4*        Adm   White   Male           4*            12
+249  4*        Adm   White   Male           4*             9
+300  4*        Adm   White   Male           4*            13
+491  4*        Adm   White   Male           4*             9"
+"('4*', ' White', ' Craft', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+29   4*      Craft   White   Male           4*             9
+48   4*      Craft   White   Male           4*            11
+155  4*      Craft   White   Male           4*             9
+276  4*      Craft   White   Male           4*            10
+281  4*      Craft   White   Male           4*            10
+392  4*      Craft   White   Male           4*            12"
+"('4*', ' White', ' Exec', ' Female', '4*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+19   4*       Exec   White   Female           4*            14
+47   4*       Exec   White   Female           4*            14
+98   4*       Exec   White   Female           4*            12
+125  4*       Exec   White   Female           4*            13
+186  4*       Exec   White   Female           4*            13
+258  4*       Exec   White   Female           4*            11"
+"('4*', ' White', ' Exec', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+9    4*       Exec   White   Male           4*            13
+32   4*       Exec   White   Male           4*            13
+363  4*       Exec   White   Male           4*            13
+468  4*       Exec   White   Male           4*            14
+507  4*       Exec   White   Male           4*            10
+526  4*       Exec   White   Male           4*            13"
+"('4*', ' White', ' Exec', ' Male', '6*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+54   4*       Exec   White   Male           6*             9
+101  4*       Exec   White   Male           6*            13
+121  4*       Exec   White   Male           6*            13
+405  4*       Exec   White   Male           6*            14
+413  4*       Exec   White   Male           6*            16"
+"('4*', ' White', ' Prof', ' Female', '4*')","    Age Occupation    Race      Sex HoursPerWeek  EducationNum
+143  4*       Prof   White   Female           4*            11
+203  4*       Prof   White   Female           4*            10
+250  4*       Prof   White   Female           4*            15
+432  4*       Prof   White   Female           4*            13
+488  4*       Prof   White   Female           4*            13"
+"('4*', ' White', ' Prof', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+39   4*       Prof   White   Male           4*            12
+63   4*       Prof   White   Male           4*            16
+240  4*       Prof   White   Male           4*            13
+429  4*       Prof   White   Male           4*            14
+443  4*       Prof   White   Male           4*            10
+529  4*       Prof   White   Male           4*            14"
+"('5*', ' White', ' Sales', ' Male', '4*')","    Age Occupation    Race    Sex HoursPerWeek  EducationNum
+83   5*      Sales   White   Male           4*             9
+172  5*      Sales   White   Male           4*            10
+263  5*      Sales   White   Male           4*            10
+285  5*      Sales   White   Male           4*            14
+303  5*      Sales   White   Male           4*             9
+366  5*      Sales   White   Male           4*            10"

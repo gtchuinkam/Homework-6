@@ -1,0 +1,70 @@
+COSC 311 Assignment #5: Anonymization
+
+
+NAMES: [Full Names of both partners]
+
+______________________________________________________________________________________
+
+Question #1
+The CensusData.csv file was released without k-anonymization or l-diversification. 
+Do you think this was an OK decision from a privacy perspective? Why or why not?
+
+[Your answer here]
+
+______________________________________________________________________________________
+
+Question #2
+How did you attempt to limit the amount of imprecision introduced by your 
+k-anonymization algorithm?
+
+[Your answer here]
+
+______________________________________________________________________________________
+
+Question #3
+How does the runtime of your k-anonymize.py scale with argument k 
+(in big-O notation)? To test this, examine the structure of your code and/or time 
+the script for increasing values of k.
+
+[Your answer here]
+
+______________________________________________________________________________________
+
+
+Question #4
+How does the runtime of your k-anonymize.py algorithm scale with the number of rows 
+in the dataset (in big-O notation)? To test this, examine the structure of your
+code and/or time the script when run on increasingly larger slices of CensusData.csv
+
+[Your answer here]
+
+______________________________________________________________________________________
+
+Question #5
+
+What do you think is the lowest value of L (for ldiversify.py) that provides 
+sufficient privacy for the sensitive EducationNum attribute? Why? 
+
+[Your answer here]
+
+______________________________________________________________________________________
+
+
+Question #6 (ungraded)
+How did you divide the work between partners? (Put N/A if worked alone)
+
+[Your answer here]
+
+______________________________________________________________________________________
+
+Question #7 (optional, ungraded)
+Did you use code snippets from anywhere online that you need to cite?
+
+[Your answer here]
+
+______________________________________________________________________________________
+
+Question #8 (optional, ungraded) 
+Do you have any suggestions for improving this assignment in the future?
+
+[Your answer here]

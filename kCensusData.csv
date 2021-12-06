@@ -1,0 +1,561 @@
+Age,Occupation,Race,Sex,HoursPerWeek,EducationNum
+0,3*, Adm, White, Male,4*,13
+1,*, Exec, White, Male,*,13
+2,*, Handlers, White, Male,4*,9
+3,*, Handlers,*, Male,*,7
+4,*,*,*,*,*,13
+5,3*, Exec, White, Female,4*,14
+6,*, Other,*, Female,*,5
+7,*, Exec, White, Male,4*,9
+8,*, Prof, White, Female,5*,14
+9,4*, Exec, White, Male,4*,13
+10,*, Exec, Black, Male,*,10
+11,*,*,*,*,*,13
+12,*, Adm, White, Female,3*,13
+13,*,*,*,*,*,12
+14,*, Craft,*, Male,*,11
+15,*, Transport,*, Male,*,4
+16,*, Farming, White, Male,*,9
+17,3*, Machine, White, Male,4*,9
+18,*, Sales, White, Male,5*,7
+19,4*, Exec, White, Female,4*,14
+20,*, Prof, White, Male,6*,16
+21,*, Other,*, Female,*,9
+22,*,*,*,*,*,5
+23,*, Transport, White, Male,4*,7
+24,*, Tech, White, Female,*,9
+25,*, Tech, White, Male,4*,13
+26,*, Craft, White, Male,4*,9
+27,*, ?,*, Male,*,10
+28,*, Exec, White, Male,*,9
+29,4*, Craft, White, Male,4*,9
+30,*, Protective,*,*,*,12
+31,*,*,*,*,*,10
+32,4*, Exec, White, Male,4*,13
+33,3*, Adm, White, Male,4*,10
+34,*, Other, Black, Male,*,10
+35,*, Machine, White, Male,4*,7
+36,2*, Machine, White, Male,4*,10
+37,*, Adm, White, Female,2*,9
+38,*, Sales, White, Male,*,10
+39,4*, Prof, White, Male,4*,12
+40,3*, Machine, White, Male,4*,5
+41,*, Prof, White, Male,4*,13
+42,*, Tech, White, Male,*,13
+43,*, Adm, White, Female,4*,9
+44,*, Handlers, White, Male,*,9
+45,*,*,*,*,*,13
+46,*, Machine,*, Male,*,9
+47,4*, Exec, White, Female,4*,14
+48,4*, Craft, White, Male,4*,11
+49,*, Prof, White, Male,4*,11
+50,*, Exec,*, Female,*,10
+51,*, Other, White, Female,3*,9
+52,*, Prof, White, Female,*,15
+53,*, Exec, White, Male,5*,13
+54,4*, Exec, White, Male,6*,9
+55,*, Tech, White, Male,4*,10
+56,*, Machine, White, Male,4*,3
+57,*, Other, White, Male,4*,11
+58,4*, Adm, White, Male,4*,9
+59,3*, Machine, White, Male,4*,9
+60,*, Sales, White, Male,4*,13
+61,*, ?, White, Male,4*,4
+62,*, Transport, White, Male,4*,9
+63,4*, Prof, White, Male,4*,16
+64,*, Tech, White, Male,*,10
+65,3*, Craft, White, Male,4*,9
+66,*, Adm, White, Female,4*,10
+67,*, Adm, White, Female,4*,9
+68,*, Exec, White, Male,5*,10
+69,*, ?, White, Male,4*,10
+70,*, Prof, White, Male,*,10
+71,*, Sales,*, Female,*,13
+72,*, Sales, White, Male,*,13
+73,2*, Machine, White, Male,4*,10
+74,*, Prof, White, Male,*,10
+75,2*, Other, White, Male,4*,9
+76,4*, Adm, White, Male,4*,12
+77,*, ?,*, Male,*,6
+78,*, Other, White, Female,2*,7
+79,*, Farming, White, Male,4*,4
+80,*, Sales, White, Male,*,9
+81,*, Other, White, Male,4*,13
+82,*, Other, White, Female,4*,9
+83,5*, Sales, White, Male,4*,9
+84,*, Craft, White, Female,4*,9
+85,*, Sales, White, Female,*,9
+86,*, Protective, White, Male,4*,9
+87,3*, Prof, White, Male,5*,14
+88,*, Sales, White, Male,4*,5
+89,*, Prof, White, Female,5*,16
+90,*, Prof, White, Male,4*,11
+91,*, Craft, White, Female,4*,10
+92,*, Machine,*, Female,*,10
+93,*, Sales,*, Female,*,9
+94,*, Protective, White, Male,4*,13
+95,*, Handlers, White, Male,*,10
+96,*, Prof, White, Male,6*,16
+97,*, Sales, White, Male,4*,10
+98,4*, Exec, White, Female,4*,12
+99,*, Other, Black, Male,*,9
+100,*, Exec, White, Male,4*,14
+101,4*, Exec, White, Male,6*,13
+102,*, Prof, White, Female,5*,14
+103,*, Tech, White, Female,*,10
+104,2*, Craft, White, Male,4*,9
+105,3*, Craft, White, Male,4*,9
+106,*, ?, White, Female,*,6
+107,*, Handlers, White, Male,4*,7
+108,*, Adm, White, Female,4*,9
+109,*, Handlers, White, Male,4*,9
+110,2*, Sales, White, Male,4*,13
+111,3*, Prof, White, Male,4*,15
+112,*, Other, White, Male,*,9
+113,*, Sales, White, Female,*,10
+114,*, Machine, White, Female,*,9
+115,*, Handlers, White, Male,*,5
+116,*, Sales, White, Male,5*,10
+117,*, Craft, Black, Male,4*,11
+118,*, Sales, White, Male,5*,10
+119,2*, Craft, White, Male,4*,9
+120,2*, Other, White, Female,4*,10
+121,4*, Exec, White, Male,6*,13
+122,*, Exec, Black, Male,*,13
+123,*, Prof, White, Male,*,13
+124,*, Other, Black, Male,*,10
+125,4*, Exec, White, Female,4*,13
+126,*, Adm, White, Female,2*,10
+127,3*, Adm, White, Male,4*,12
+128,*, ?, White, Male,4*,9
+129,3*, Craft, White, Male,4*,10
+130,*, Sales, White, Female,*,12
+131,2*, Other, White, Female,4*,9
+132,*, Craft, White, Male,*,9
+133,*, Sales, White, Male,5*,13
+134,*,*,*,*,*,12
+135,3*, Prof, White, Male,4*,14
+136,*, Craft, White, Male,*,9
+137,*, Adm, White, Female,3*,11
+138,*, Sales, White, Male,*,10
+139,*, Craft,*, Male,*,10
+140,*, Craft, White, Male,4*,9
+141,*, Sales, White, Female,4*,10
+142,*, Other, White, Male,*,10
+143,4*, Prof, White, Female,4*,11
+144,*, Tech, White, Male,4*,10
+145,*,*,*,*,*,9
+146,*, Other, White, Male,*,10
+147,*, Other, White, Female,2*,9
+148,*, Craft, White, Male,4*,7
+149,*, ?, White, Female,*,10
+150,*, Adm, White, Female,3*,10
+151,*, Adm, White, Female,4*,9
+152,*, Exec,*, Female,*,13
+153,*, Craft, White, Male,*,9
+154,*, ?, White, Male,4*,9
+155,4*, Craft, White, Male,4*,9
+156,*, Handlers, White, Male,4*,13
+157,*,*,*,*,*,10
+158,*, Craft, White, Male,*,9
+159,*, Other, Black, Male,*,13
+160,*, ?, White, Female,*,2
+161,2*, Other, White, Female,4*,9
+162,*, Exec,*, Female,*,14
+163,*, Exec,*, Female,*,9
+164,*, Sales, White, Male,4*,14
+165,*, Other, White, Female,4*,10
+166,3*, Exec, White, Male,4*,12
+167,*, Protective, White, Male,4*,14
+168,*, Handlers, White, Male,*,7
+169,*, Prof, White, Female,*,11
+170,2*, Other, White, Male,4*,9
+171,*, Protective, White, Male,4*,9
+172,5*, Sales, White, Male,4*,10
+173,*, Craft, White, Male,5*,13
+174,*, Prof, White, Male,4*,13
+175,*, Sales, White, Female,*,9
+176,*, Craft, Black, Male,4*,9
+177,*, Handlers,*, Male,*,9
+178,*, Other, White, Male,*,9
+179,*, Prof, White, Male,6*,13
+180,*, Exec, Black, Male,*,10
+181,*, Adm, White, Female,4*,10
+182,*, Craft, Black, Male,4*,10
+183,*, Machine, White, Male,4*,4
+184,3*, Adm, White, Male,4*,10
+185,*,*,*,*,*,9
+186,4*, Exec, White, Female,4*,13
+187,*, ?, White, Female,*,13
+188,*, Prof, White, Female,5*,14
+189,*, Prof, White, Male,*,16
+190,*, Machine,*, Female,*,10
+191,2*, Machine, White, Male,4*,10
+192,*, Craft, Black, Male,4*,13
+193,*, Tech, White, Male,4*,10
+194,*, Tech, White, Male,*,13
+195,*, Transport, White, Male,4*,3
+196,3*, Craft, White, Male,4*,10
+197,*, Exec, White, Female,*,14
+198,3*, Prof, White, Male,4*,14
+199,2*, Sales, White, Male,4*,9
+200,*, Prof, White, Female,4*,14
+201,*, ?, White, Male,4*,9
+202,*, Exec, White, Male,5*,13
+203,4*, Prof, White, Female,4*,10
+204,*, Adm, White, Female,3*,9
+205,*, Sales, White, Female,4*,7
+206,*, Other, Black, Male,*,13
+207,*, Craft, White, Male,*,9
+208,*, Sales, White, Female,*,9
+209,*, Sales, White, Female,*,7
+210,*, Transport,*, Male,*,9
+211,3*, Craft, White, Male,4*,9
+212,*, Sales,*, Female,*,10
+213,*, Craft,*, Male,*,9
+214,*, Machine, White, Male,4*,4
+215,*, Exec, Black, Male,*,13
+216,*, Sales, White, Female,4*,12
+217,*, Sales, White, Male,5*,13
+218,*, Prof, White, Male,*,13
+219,2*, Craft, White, Male,4*,6
+220,*, Handlers, White, Male,4*,10
+221,*, ?, White, Male,4*,2
+222,*, Other, Black, Male,*,9
+223,*,*,*,*,*,9
+224,*, Machine, White, Female,*,1
+225,*, Sales, White, Female,4*,9
+226,*, ?,*, Female,*,6
+227,*, Farming, White, Male,*,9
+228,*, Adm, White, Female,2*,11
+229,*, Adm, White, Female,4*,9
+230,*, Transport,*, Male,*,7
+231,*, Sales,*, Female,*,9
+232,*, Adm, White, Male,4*,10
+233,*,*,*,*,*,10
+234,*, Prof, White, Male,*,15
+235,*, Other, White, Male,4*,9
+236,*, Adm, White, Female,3*,10
+237,*, Exec, White, Male,5*,13
+238,*, Exec, White, Male,*,14
+239,*, Transport, White, Male,4*,9
+240,4*, Prof, White, Male,4*,13
+241,*, Other, White, Female,2*,9
+242,*, Protective,*,*,*,12
+243,*, ?, White, Male,2*,10
+244,3*, Craft, White, Male,4*,10
+245,*,*,*,*,*,9
+246,*, Adm, White, Male,4*,9
+247,*, Other, White, Female,3*,9
+248,*, Tech, White, Male,*,12
+249,4*, Adm, White, Male,4*,9
+250,4*, Prof, White, Female,4*,15
+251,*, Adm,*, Female,*,13
+252,*, Other,*, Female,*,6
+253,*, Adm, White, Male,4*,10
+254,*, Transport, White, Male,*,10
+255,*,*,*,*,*,9
+256,2*, Other, White, Female,4*,9
+257,*, Other, White, Female,3*,9
+258,4*, Exec, White, Female,4*,11
+259,*, Craft, White, Male,4*,4
+260,*, Prof, White, Female,4*,13
+261,*, Sales, White, Male,*,9
+262,*, Other, White, Male,*,7
+263,5*, Sales, White, Male,4*,10
+264,2*, Craft, White, Male,4*,7
+265,*,*,*,*,*,10
+266,*, ?, White, Male,2*,10
+267,*, Exec, White, Male,4*,9
+268,*, Prof, White, Female,4*,13
+269,*, Craft, White, Female,4*,9
+270,*, Exec, White, Male,4*,9
+271,*, Other, White, Male,*,5
+272,*, Farming, White, Male,*,14
+273,*, Prof, White, Male,*,14
+274,*, Prof, White, Female,4*,9
+275,*, Handlers,*, Male,*,9
+276,4*, Craft, White, Male,4*,10
+277,3*, Exec, White, Female,4*,10
+278,*, Tech, White, Female,*,10
+279,*, Machine, White, Female,*,10
+280,*, Prof, White, Female,*,13
+281,4*, Craft, White, Male,4*,10
+282,*, Sales,*, Female,*,12
+283,*, Prof, White, Female,4*,13
+284,*, Handlers, White, Male,4*,9
+285,5*, Sales, White, Male,4*,14
+286,*, Prof, White, Male,6*,15
+287,*, Other, White, Male,4*,10
+288,*, Exec, White, Female,*,13
+289,*, Craft, White, Male,4*,4
+290,3*, Prof, White, Male,4*,13
+291,*, Prof, White, Female,4*,9
+292,*, Protective,*,*,*,13
+293,2*, Sales, White, Male,4*,10
+294,*,*,*,*,*,13
+295,*, Transport, White, Male,*,9
+296,*, Sales, White, Female,*,13
+297,*, ?,*, Female,*,14
+298,2*, Craft, White, Male,4*,9
+299,*, Sales, White, Male,*,9
+300,4*, Adm, White, Male,4*,13
+301,*, Other,*, Female,*,10
+302,*, Transport, White, Male,4*,9
+303,5*, Sales, White, Male,4*,9
+304,*, Adm,*, Female,*,10
+305,*, Adm, White, Female,4*,9
+306,*, Tech, White, Male,4*,12
+307,*, Prof, White, Female,*,12
+308,3*, Adm, White, Male,4*,12
+309,*, Farming, White, Male,*,10
+310,2*, Sales, White, Male,4*,13
+311,*,*,*,*,*,14
+312,*, ?,*, Female,*,10
+313,*,*,*,*,*,13
+314,*, Sales, White, Male,*,10
+315,2*, Machine, White, Male,4*,10
+316,*, Sales, White, Male,4*,10
+317,*, Machine, White, Female,*,3
+318,*, Tech, White, Female,*,10
+319,*, Other, White, Female,2*,9
+320,3*, Exec, White, Male,4*,9
+321,*, Craft, White, Male,5*,10
+322,*, Transport, White, Male,4*,9
+323,*, Exec, White, Female,*,7
+324,*, Craft, White, Male,*,14
+325,*, Farming, White, Male,4*,9
+326,*, ?,*, Female,*,11
+327,*, Prof, White, Female,5*,10
+328,*, Handlers, White, Male,4*,9
+329,*, Transport, White, Male,*,9
+330,*, Craft, Black, Male,4*,10
+331,*, Adm, White, Male,4*,13
+332,*, Other, White, Male,4*,11
+333,*, Adm, White, Male,4*,6
+334,*, Transport, White, Male,4*,9
+335,*, Other, White, Male,4*,3
+336,3*, Craft, White, Male,4*,9
+337,*, Prof, White, Male,6*,14
+338,*,*,*,*,*,9
+339,*, Other, Black, Male,*,9
+340,2*, Sales, White, Male,4*,12
+341,3*, Craft, White, Male,4*,11
+342,*, Protective, White, Male,4*,9
+343,*, Farming, White, Male,*,9
+344,*, Protective,*,*,*,10
+345,*, Sales, White, Male,4*,13
+346,*, ?,*, Male,*,7
+347,*, ?, White, Female,*,11
+348,*, Other, White, Male,*,12
+349,*, Prof, White, Male,*,13
+350,3*, Exec, White, Male,4*,13
+351,2*, Other, White, Male,4*,9
+352,3*, Exec, White, Male,4*,13
+353,*, Transport, White, Male,*,7
+354,*, ?, White, Male,4*,13
+355,3*, Adm, White, Male,4*,9
+356,*,*,*,*,*,7
+357,*, Tech, White, Male,4*,11
+358,*, Adm, White, Female,3*,9
+359,2*, Craft, White, Male,4*,5
+360,*, Other, White, Female,2*,6
+361,*, Prof, White, Male,4*,14
+362,*, Transport, White, Male,4*,13
+363,4*, Exec, White, Male,4*,13
+364,*, Sales, White, Male,5*,9
+365,2*, Craft, White, Male,4*,9
+366,5*, Sales, White, Male,4*,10
+367,*, Sales, White, Female,*,12
+368,*, Exec, White, Female,*,13
+369,*, Sales, White, Female,4*,9
+370,*, Adm, White, Female,*,10
+371,*, Other, White, Male,*,7
+372,*, Machine,*, Male,*,11
+373,*, Machine,*, Male,*,9
+374,*, Craft, Black, Male,4*,9
+375,*, Adm, White, Female,*,10
+376,*, Craft, White, Female,4*,9
+377,2*, Sales, White, Male,4*,10
+378,*, Exec, White, Male,*,14
+379,*, Sales, White, Male,5*,9
+380,*, Transport, White, Male,4*,9
+381,*, Craft, White, Female,4*,3
+382,2*, Craft, White, Male,4*,10
+383,*, Sales, White, Female,4*,10
+384,*,*,*,*,*,10
+385,*, Other, White, Female,2*,9
+386,2*, Machine, White, Male,4*,9
+387,*, Adm, White, Female,*,10
+388,*, Adm, White, Female,*,10
+389,*, Other, White, Female,4*,9
+390,*, Other, White, Female,4*,9
+391,*, Craft, White, Male,5*,13
+392,4*, Craft, White, Male,4*,12
+393,3*, Exec, White, Male,4*,13
+394,*, Other, White, Female,3*,9
+395,*, Tech, White, Male,4*,10
+396,*,*,*,*,*,10
+397,*, ?, White, Female,*,9
+398,*, Exec, White, Male,5*,13
+399,*, Exec, White, Male,5*,13
+400,*, Handlers, White, Male,4*,10
+401,2*, Other, White, Female,4*,10
+402,*, Protective, White, Male,4*,13
+403,*, Tech, White, Female,*,11
+404,*, Handlers,*, Male,*,4
+405,4*, Exec, White, Male,6*,14
+406,*, Adm, White, Male,4*,9
+407,*, Craft, White, Male,*,9
+408,*, ?, White, Female,*,10
+409,*, Exec, White, Male,5*,10
+410,*, Other,*, Female,*,10
+411,*,*,*,*,*,9
+412,3*, Exec, White, Female,4*,10
+413,4*, Exec, White, Male,6*,16
+414,3*, Machine, White, Male,4*,10
+415,*, Craft, White, Male,5*,8
+416,*, Machine, White, Male,4*,2
+417,*, Other,*, Female,*,7
+418,*, Machine,*, Male,*,7
+419,*,*,*,*,*,9
+420,*, Sales, White, Male,*,10
+421,*, Handlers, White, Male,*,7
+422,3*, Exec, White, Female,4*,13
+423,*, Farming, White, Male,4*,9
+424,*,*,*,*,*,6
+425,*, Transport, White, Male,*,9
+426,3*, Prof, White, Male,4*,14
+427,*, Handlers, White, Male,*,9
+428,*, Exec, White, Male,4*,9
+429,4*, Prof, White, Male,4*,14
+430,*, ?, White, Male,2*,9
+431,*, ?, White, Male,4*,7
+432,4*, Prof, White, Female,4*,13
+433,*, Other, White, Female,2*,12
+434,*, Craft,*, Male,*,10
+435,3*, Prof, White, Male,5*,14
+436,*,*,*,*,*,9
+437,*, Protective,*,*,*,10
+438,*, Adm, White, Male,4*,10
+439,*, Adm, White, Female,4*,10
+440,*, Prof, White, Male,4*,13
+441,*, Adm, White, Female,2*,9
+442,*,*,*,*,*,9
+443,4*, Prof, White, Male,4*,10
+444,2*, Craft, White, Male,4*,5
+445,*, Sales, White, Male,*,10
+446,*, Exec,*, Female,*,9
+447,*, Craft,*, Male,*,9
+448,2*, Machine, White, Male,4*,9
+449,*, ?, White, Female,*,7
+450,*, Machine,*, Female,*,9
+451,*, Craft, White, Male,5*,10
+452,*, Craft, White, Male,4*,9
+453,*, Exec, Black, Male,*,12
+454,*, Sales, White, Female,4*,9
+455,*, Machine,*, Male,*,11
+456,3*, Exec, White, Female,4*,9
+457,*, Transport,*, Male,*,10
+458,*, Transport, White, Male,*,9
+459,*, ?, White, Male,4*,10
+460,*, Farming, White, Male,4*,12
+461,*, Transport,*, Male,*,9
+462,3*, Prof, White, Male,5*,13
+463,*, Craft, White, Male,4*,2
+464,*, Tech, White, Female,*,13
+465,*, Adm, White, Female,*,9
+466,*, Transport, White, Male,4*,9
+467,*, Transport, White, Male,4*,10
+468,4*, Exec, White, Male,4*,14
+469,*, Tech, White, Female,*,13
+470,*, Prof, White, Male,4*,10
+471,*, ?, White, Male,4*,10
+472,3*, Craft, White, Male,4*,9
+473,*, Transport, White, Male,*,9
+474,*, Other, White, Female,2*,11
+475,*, Craft, White, Female,4*,13
+476,*, Other, White, Male,*,5
+477,*, Handlers, White, Male,*,10
+478,2*, Other, White, Male,4*,6
+479,*, Other, White, Female,3*,9
+480,3*, Craft, White, Male,4*,12
+481,*, Craft, White, Male,*,10
+482,*, Prof, White, Male,*,13
+483,*, Craft, White, Female,4*,9
+484,*, ?,*, Male,*,8
+485,*, Adm,*, Female,*,10
+486,*, ?,*, Male,*,2
+487,*, Transport, White, Male,4*,9
+488,4*, Prof, White, Female,4*,13
+489,*, Sales, White, Male,*,13
+490,*, Other, White, Female,3*,9
+491,4*, Adm, White, Male,4*,9
+492,*, Exec, White, Female,*,12
+493,*, Prof, White, Female,*,9
+494,*, Craft, White, Male,*,13
+495,*, Adm, White, Female,3*,9
+496,2*, Machine, White, Male,4*,10
+497,2*, Other, White, Male,4*,3
+498,*, Prof, White, Female,*,10
+499,*, ?, White, Male,2*,9
+500,*, Farming, White, Male,4*,9
+501,*, Transport, White, Male,4*,9
+502,*, Adm, White, Male,4*,10
+503,*, Other, White, Female,4*,10
+504,*, Sales, White, Female,4*,13
+505,*, Exec, Black, Male,*,13
+506,*, Protective,*,*,*,10
+507,4*, Exec, White, Male,4*,10
+508,*, Adm,*, Female,*,9
+509,*, Other, White, Female,4*,9
+510,*, Handlers, White, Male,4*,11
+511,*, ?,*, Female,*,3
+512,3*, Craft, White, Male,4*,11
+513,3*, Prof, White, Male,5*,10
+514,2*, Craft, White, Male,4*,9
+515,*, ?, White, Female,*,11
+516,*, Adm,*, Female,*,10
+517,*, ?, White, Male,2*,10
+518,*, ?, White, Female,*,10
+519,3*, Prof, White, Male,5*,13
+520,*, Exec, White, Male,*,13
+521,*, Exec, White, Male,5*,9
+522,*, Handlers,*, Male,*,10
+523,*, Tech, White, Male,4*,10
+524,*, Machine,*, Male,*,10
+525,*, Sales, White, Female,4*,10
+526,4*, Exec, White, Male,4*,13
+527,*, Adm, White, Female,*,10
+528,*, Craft, White, Male,5*,9
+529,4*, Prof, White, Male,4*,14
+530,*, Machine,*, Female,*,7
+531,2*, Machine, White, Male,4*,9
+532,*, Other, Black, Male,*,9
+533,*, Exec, White, Female,*,12
+534,*, Prof, White, Male,4*,15
+535,*, Tech, White, Male,*,8
+536,*,*,*,*,*,2
+537,2*, Craft, White, Male,4*,11
+538,*,*,*,*,*,13
+539,*, ?,*, Female,*,9
+540,*, Transport, White, Male,4*,10
+541,*, Prof, White, Male,4*,16
+542,*,*,*,*,*,10
+543,*, Transport, White, Male,4*,9
+544,*, Sales, White, Male,5*,10
+545,*,*,*,*,*,9
+546,*, Other,*, Female,*,6
+547,*, Protective, White, Male,4*,10
+548,*, Handlers, White, Male,*,9
+549,2*, Craft, White, Male,4*,10
+550,*, Exec, White, Male,5*,10
+551,*, Other, White, Female,4*,9
+552,*, Adm, White, Female,4*,7
+553,*, Machine,*, Female,*,9
+554,*,*,*,*,*,11
+555,*, Machine, White, Female,*,7
+556,3*, Machine, White, Male,4*,9
+557,*, Adm, White, Female,2*,9
+558,*, Tech, White, Female,*,9
+559,*, Other, White, Male,4*,7
