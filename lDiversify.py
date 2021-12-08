@@ -23,3 +23,18 @@ def getLDiversity(dataset: DataFrame):
                 lowestVal = uniqueVals
 
     return lowestVal
+
+def getNonDiverseData(df: DataFrame):
+    l_count = DataFrame(df.groupby(by = ['Age', 'Race', 'Occupation', 'Sex', 'HoursPerWeek']))
+
+    updated_l_count = pd.DataFrame()
+    for index, row in l_count.iterrows():
+        # rowFrame = DataFrame(row)
+        # length = len(rowFrame.index) - 1
+
+        uniqueVals = len(pd.unique(row[1]['EducationNum']))
+        if(uniqueVals < L):
+            updated_l_count = updated_l_count.append(row)
+    return updated_l_count
+
+print(getNonDiverseData(df))
